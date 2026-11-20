@@ -207,12 +207,12 @@ This project follows responsible scraping practices:
 
 ## 👤 Author
 
-**Kaushik Sahu**
-B.Tech Biomedical Engineering, NIT Rourkela
+**Jeevana Jyothi**
+B.Tech CSE, Anantha Lakshmi Institute of Technology and Sciences
 Aspiring Data Analyst | Python · SQL · Power BI · Excel
 
-📧 kaushiksahu866@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kaushik-sahu-37316a1b8/)
-🐙 [GitHub](https://github.com/kaushiksahu866-data)
+📧 jeevanaKatterapalli@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/jeevana-jyothi-katterapalli)
+🐙 [GitHub](https://github.com/jeevanakatterapalli-18)
 
 ---
