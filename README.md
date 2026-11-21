@@ -153,7 +153,8 @@ da-job-market-analysis/
 ## 📈 Visualizations
 
 ### Top 15 In-Demand Skills
-![Skills]("C:\Users\HP\Downloads\01_top_skills.png")
+![Skills](<img width="1784" height="1182" alt="01_top_skills" src="https://github.com/user-attachments/assets/563bc9ba-a974-4a47-b618-db68a4fb3269" />
+)
 
 ### Top 10 Hiring Cities
 ![Cities]("C:\Users\HP\Downloads\02_top_cities.png")
