@@ -156,19 +156,19 @@ da-job-market-analysis/
 ![Skills](da-job-market-analysis-main/visuals/01_top_skills.png)
 
 ### Top 10 Hiring Cities
-![Cities]("C:\Users\HP\Downloads\02_top_cities.png")
+![Cities](da-job-market-analysis-main/visuals/02_top_cities.png)
 
 ### Experience Level Distribution
-![Experience]("C:\Users\HP\Downloads\03_experience_distribution.png")
+![Experience](a-job-market-analysis-main/visuals/03_experience_distribution.png)
 
 ### Salary Distribution
-![Salary]("C:\Users\HP\Downloads\04_salary_distribution.png")
+![Salary](da-job-market-analysis-main/visuals/04_salary_distribution.png)
 
 ### Top 10 Hiring Companies
-![Companies]("C:\Users\HP\Downloads\05_top_companies.png")
+![Companies](da-job-market-analysis-main/visuals/05_top_companies.png)
 
 ### Skill Co-occurrence Heatmap
-![Heatmap]("C:\Users\HP\Downloads\06_skill_heatmap.png")
+![Heatmap](da-job-market-analysis-main/visuals/06_skill_heatmap.png)
 
 ---
 
