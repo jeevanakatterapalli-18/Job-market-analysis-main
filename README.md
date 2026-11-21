@@ -153,22 +153,22 @@ da-job-market-analysis/
 ## 📈 Visualizations
 
 ### Top 15 In-Demand Skills
-![Skills](visuals/01_top_skills.png)
+![Skills]("C:\Users\HP\Downloads\01_top_skills.png")
 
 ### Top 10 Hiring Cities
-![Cities](visuals/02_top_cities.png)
+![Cities]("C:\Users\HP\Downloads\02_top_cities.png")
 
 ### Experience Level Distribution
-![Experience](visuals/03_experience_distribution.png)
+![Experience]("C:\Users\HP\Downloads\03_experience_distribution.png")
 
 ### Salary Distribution
-![Salary](visuals/04_salary_distribution.png)
+![Salary]("C:\Users\HP\Downloads\04_salary_distribution.png")
 
 ### Top 10 Hiring Companies
-![Companies](visuals/05_top_companies.png)
+![Companies]("C:\Users\HP\Downloads\05_top_companies.png")
 
 ### Skill Co-occurrence Heatmap
-![Heatmap](visuals/06_skill_heatmap.png)
+![Heatmap]("C:\Users\HP\Downloads\06_skill_heatmap.png")
 
 ---
 
